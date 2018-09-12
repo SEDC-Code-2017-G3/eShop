@@ -1,0 +1,12 @@
+c:\users\asus\source\repos\eShop\Entitites\bin\Debug\Entitites.dll
+c:\users\asus\source\repos\eShop\Entitites\bin\Debug\Entitites.pdb
+c:\users\asus\source\repos\eShop\Entitites\obj\Debug\Entitites.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\eShop\Entitites\obj\Debug\Entitites.dll
+c:\users\asus\source\repos\eShop\Entitites\obj\Debug\Entitites.pdb
+c:\users\asus\source\repos\eShop\Entitites\obj\Debug\Entitites.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\eShop\Entitites\bin\Debug\Entitites.dll
+C:\Users\ASUS\Desktop\eShop\Entitites\bin\Debug\Entitites.pdb
+C:\Users\ASUS\Desktop\eShop\Entitites\obj\Debug\Entitites.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\eShop\Entitites\obj\Debug\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\eShop\Entitites\obj\Debug\Entitites.dll
+C:\Users\ASUS\Desktop\eShop\Entitites\obj\Debug\Entitites.pdb
